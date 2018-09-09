@@ -1,4 +1,4 @@
-const API_KEY = "YOUR API KEY"
+const API_KEY = "YOUR API KEY";
 
 function handleFormSubmit(event) {
   //handle submit event
@@ -27,4 +27,4 @@ function createChart(json) {
 
 document.addEventListener('DOMContentLoaded', function() {
   //add event listener here for form submission
-})
+});
